@@ -1,0 +1,16 @@
+{
+    "name": "batuberksahin.level_changer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a11b675b7e87f1743aae01f3babfbac6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

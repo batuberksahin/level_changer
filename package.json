@@ -1,0 +1,10 @@
+{
+  "name": "com.batuberksahin.level_changer",
+  "displayName": "Level Changer",
+  "version": "1.0.0",
+  "documentationUrl": "https://github.com/batuberksahin/level_changer",
+  "description": "Primitive Level Change System",
+  "dependencies": {
+    "com.batuberksahin.soevents": "1.0.0"
+  }
+}
